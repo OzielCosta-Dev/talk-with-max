@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Secrets - never commit your API key!
+.env
+.env.local
+
+# Logs and editor files
+*.log
+.DS_Store
+.vscode/
